@@ -1,0 +1,5 @@
+*.py
+*.pyx
+config/.env
+media/
+staticfiles/
